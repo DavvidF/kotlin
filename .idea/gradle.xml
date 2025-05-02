@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Kotlin lists" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Print result" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Print white" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Shapeshifter" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Implement a class" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Predictable sequence" />
+            <option value="$PROJECT_DIR$/Topics/Random/RPG dices" />
+            <option value="$PROJECT_DIR$/Topics/Random/Random generator seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Roll the dice" />
+            <option value="$PROJECT_DIR$/Topics/Random/The Rock-Paper-Scissors game" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Errors and where to find them" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/How are the classes created" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Spot the error" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Validation" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
